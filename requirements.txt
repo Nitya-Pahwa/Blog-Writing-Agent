@@ -1,0 +1,26 @@
+# Core LLM + LangGraph stack
+langgraph
+langchain-core
+langchain-groq
+langchain-community
+
+# UI
+streamlit
+
+# Data handling
+pandas
+
+# Validation
+pydantic
+
+# Hugging Face (image generation)
+huggingface-hub
+
+# Environment variables
+python-dotenv
+
+# Optional (used dynamically in code)
+tavily-python
+
+# Utilities (usually preinstalled but safe)
+typing-extensions
