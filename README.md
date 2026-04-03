@@ -62,8 +62,8 @@ Router -> Research -> Orchestrator -> Workers -> Reducer (Images)
 
 1. Clone the repo
 ``` bash
-git clone https://github.com/your-username/blog-writing-agent.git
-cd blog-writing-agent
+[git clone https://github.com/your-username/blog-writing-agent.git
+cd blog-writing-agent](https://github.com/Nitya-Pahwa/Blog-Writing-Agent.git)
 ```
 
 2. Install dependencies
